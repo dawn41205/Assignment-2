@@ -19,19 +19,16 @@ def summarize_by_category(data):
     totals = defaultdict(float)
 
     for item in data:
-        # 保險一點：防止資料格式怪怪的
         if not isinstance(item, (list, tuple)) or len(item) < 2:
             continue
 
         amount, category = item[0], item[1]
 
-        # 嘗試把金額轉成 float，轉不動就略過
         try:
             amount = float(amount)
         except (TypeError, ValueError):
             continue
 
-        # 類別轉成字串（避免 None 或其他型別）
         category = str(category)
         totals[category] += amount
 
@@ -74,7 +71,7 @@ def main():
         print("沒有任何支出資料可以顯示")
         return
 
-    print("各類別總金額：")
+    print("各類總金額：")
     for category, amount in totals.items():
         print(f"- {category}: {amount:.2f}")
 
