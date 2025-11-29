@@ -1,6 +1,8 @@
 ﻿# Assignment-2
- <br>
-## 安裝必要套件<br>
+<br>
+
+
+## 安裝必要套件
 -Python（建議 3.9+）
 
 
@@ -25,11 +27,12 @@
 7.根據不同類別的金額加總所佔的百分比，生成圓餅圖並展示於螢幕。<br>
 <br>
 ## screenshot
-![](<img width="311" height="264" alt="截圖 2025-11-29 11 41 29" src="https://github.com/user-attachments/assets/4b2c7014-b2cc-41bf-b09b-c62e36993f86" />
-)
+<img width="311" height="264" alt="截圖 2025-11-29 11 41 29" src="https://github.com/user-attachments/assets/11e3e211-dcc8-437f-81d9-57d96ce78e04" />
+
 
 ## Link
 [Demo Video](https://www.youtube.com/watch?v=rxOo26K-pP4)
+
 
 
 
