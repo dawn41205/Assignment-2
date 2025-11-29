@@ -1,6 +1,6 @@
 ﻿# Assignment-2
  <br>
-## 安裝必要套件
+## 安裝必要套件<br>
 -Python（建議 3.9+）
 
 
@@ -23,13 +23,14 @@
 5.然後執行output.py
 6.讀取expenses.json
 7.根據不同類別的金額加總所佔的百分比，生成圓餅圖並展示於螢幕。<br>
-
+<br>
 ## screenshot
-![](screenshots<img width="311" height="264" alt="截圖 2025-11-29 11 41 29" src="https://github.com/user-attachments/assets/1b626244-fb59-4e07-bc5d-8a665dfddd0d" />
-/sample_piechart.png)
+![](<img width="311" height="264" alt="截圖 2025-11-29 11 41 29" src="https://github.com/user-attachments/assets/4b2c7014-b2cc-41bf-b09b-c62e36993f86" />
+)
 
 ## Link
 [Demo Video](https://www.youtube.com/watch?v=rxOo26K-pP4)
+
 
 
 
