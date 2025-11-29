@@ -22,8 +22,8 @@
     [200, "shopping"]
 ]
 ```
-5.然後執行output.py
-6.讀取expenses.json
+5.然後執行output.py<br>
+6.讀取expenses.json<br>
 7.根據不同類別的金額加總所佔的百分比，生成圓餅圖並展示於螢幕。<br>
 <br>
 ## screenshot
@@ -32,6 +32,7 @@
 
 ## Link
 [Demo Video](https://www.youtube.com/watch?v=rxOo26K-pP4)
+
 
 
 
