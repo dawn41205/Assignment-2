@@ -27,12 +27,14 @@
 7.根據不同類別的金額加總所佔的百分比，生成圓餅圖並展示於螢幕。<br>
 <br>
 ## screenshot
-<img width="311" height="264" alt="截圖 2025-11-29 11 41 29" src="https://github.com/user-attachments/assets/11e3e211-dcc8-437f-81d9-57d96ce78e04" />
+<img width="311" height="264" alt="截圖 2025-11-29 11 41 29" src="https://github.com/user-attachments/assets/11e3e211-dcc8-437f-81d9-57d96ce78e04" /><br>
+<img width="634" height="537" alt="截圖 2025-11-29 11 59 52" src="https://github.com/user-attachments/assets/d5263c1f-1344-45ab-a9c9-0d24d1c6aa3a" /><br>
 
 
 ## Link
-[Repo](https://github.com/dawn41205/Assignment-2.git)
+[Repo](https://github.com/dawn41205/Assignment-2.git)<br>
 [Demo Video](https://www.youtube.com/watch?v=rxOo26K-pP4)
+
 
 
 
